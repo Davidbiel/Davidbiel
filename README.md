@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Davidbiel/Davidbiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho: PixelCraft
+- 🌱 Aprendendo: java & python
+- 📫 Como entrar em contato comigo:
+        Discord: davidmiranda12
+        Kingo Network:  https://discord.gg/v6Cz3wM8mH
+- 😄 Apelidos: 
+        - Natalino
+        - Miranda
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Pergunte-me sobre texturas e plugins de minecraft
